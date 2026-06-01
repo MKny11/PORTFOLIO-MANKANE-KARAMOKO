@@ -30,7 +30,7 @@ Mankané KARAMOKO
 | Catégorie | Outils & Technologies |
 | **Visualisation & BI** | Power BI · DAX · SAP BusinessObjects · Excel · Teradata · R Studio |
 | **Langages** | SQL · Python · R · DAX |
-| **Gestion de projet** | MOA / MOE · JIRA · Méthodologie PRISME · Conduite du changement |
+| **Gestion de projet** |JIRA · Méthodologie PRISME · Conduite du changement |
 | **Environnement** | Jupyter Notebook · Oracle · Microsoft 365 |
 | **Langues** | Français (natif) · Anglais (intermédiaire) |
 | **Mobilité** | France — Passeport Talent éligible |
@@ -89,7 +89,7 @@ Mankané KARAMOKO
 - Nettoyage et transformation des données.
 - Conception du modèle sémantique.
 - Création d'un tableau de bord interactif pour la visualisation et l'analyse des accidents routiers.
-  lien: 
+  lien: https://github.com/MKny11/POWER-BI-PROJECT.git
 
 ### 🐍 Python — Analyse des données des véhicules électriques
 - Importation, nettoyage et préparation des données.
