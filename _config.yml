@@ -1,6 +1,14 @@
 title: "KARAMOKO MANKANÉ"
-logo: img/PHOTO ID2.jpeg
-description: "Portfolio Mankané KARAMOKO Bi/DATA ANALYST"
-show_downloads: true
-theme:jekyll-theme-classic
-lang: fr
+description: "Portfolio Mankané KARAMOKO | BI & Data Analyst"
+locale: "fr-FR"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "KARAMOKO MANKANÉ"
+  avatar: "/img/PHOTO ID2.jpeg"
+  bio: "Ingénieur Reporting | BI & Data Analyst"
+  location: "Abidjan, Côte d'Ivoire"
