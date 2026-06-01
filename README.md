@@ -3,17 +3,23 @@
 **Business Analyst | Ingénieure Reporting**  
 📍 Abidjan, Côte d'Ivoire → France | **Éligible au Passeport Talent**  
 📧 mankanekaramoko@gmail.com | 📞 +225 07 08 98 70 15  
-🔗 [LinkedIn — Mankané Karamoko](https://www.linkedin.com/in/mankan%C3%A9-karamoko)
+🔗 [LinkedIn — Mankané Karamoko](https://www.linkedin.com/in/mankan%C3%A9-karamoko-0a918a21a)
 
 ---
 
 ## 🧭 Profil
+Bonjour,
 
-Ingénieure Reporting avec plus de 2 ans d'expérience en reporting bancaire au sein du groupe **Société Générale African Business Services** à Abidjan.
+Diplômée en informatique et actuellement Ingénieur Reporting dans le secteur bancaire, je dispose de compétences en SQL, Power BI, analyse de données et reporting décisionnel.
 
-J'interviens sur la transformation et la fiabilisation des données de reporting, de l'extraction SQL à l'automatisation des traitements, jusqu'à la conception de tableaux de bord décisionnels sous **Microsoft Power BI**.
+Je suis à la recherche d’une opportunité en Data Analyst / BI Analyst à Paris afin d’évoluer dans un environnement international et enrichir mon expérience professionnelle.
 
-J'ai également piloté des projets de migration de solutions de reporting de **SAP BusinessObjects vers Power BI**, dans une logique d'optimisation et de modernisation des systèmes décisionnels (rôles **MOA & MOE**).
+Éligible au Passeport Talent, je suis disponible pour une mobilité et serais ravie d’échanger au sujet de votre offre.
+
+
+Cordialement,
+
+Mankané KARAMOKO
 
 > 🎯 **Éligible au Passeport Talent – Salarié qualifié** | 
 
@@ -38,8 +44,8 @@ J'ai également piloté des projets de migration de solutions de reporting de **
 
 **Chef de projet – Migration BO vers Power BI (MOA/MOE)**
 - Élaboration de la feuille de route et du planning du projet de migration
-- Pilotage du suivi fonctionnel et technique (rôle MOE)
-- Recueil et formalisation des besoins métiers (rôle MOA)
+- Pilotage du suivi fonctionnel et technique.
+- Recueil et formalisation des besoins métiers.
 - Conception et développement de rapports et tableaux de bord sous Power BI
 - Gestion des incidents selon la méthodologie PRISME via JIRA
 - Organisation et animation des réunions de suivi et points d'avancement
@@ -52,12 +58,12 @@ J'ai également piloté des projets de migration de solutions de reporting de **
 - Conception, mise en place et maintenance de rapports sous SAP BusinessObjects
 
 **Monitoring des données**
-- Suivi et contrôle régulier des processus d'alimentation (sourcing) des bases de données
-- Supervision des fichiers monétiques journaliers et mensuels — qualité et disponibilité des données
+- Suivi et contrôle régulier des processus d'alimentation (sourcing) des bases de données.
+- Supervision des fichiers monétiques journaliers et mensuels — qualité et disponibilité des données.
 
 **Support & Collaboration**
-- Accompagnement et formation des nouveaux stagiaires sur les outils BI et les bonnes pratiques SQL
-- Participation active aux réunions de service et résolution collective des problématiques techniques
+- Accompagnement et formation des nouveaux stagiaires sur les outils BI et les bonnes pratiques SQL.
+- Participation active aux réunions de service et résolution collective des problématiques techniques.
 
 ---
 
@@ -80,14 +86,15 @@ J'ai également piloté des projets de migration de solutions de reporting de **
 ## 🏆 Réalisations personnelles
 
 ### 📊 Power BI — Analyse des accidents routiers
-- Nettoyage et transformation des données
-- Conception du modèle sémantique
-- Création d'un tableau de bord interactif pour la visualisation et l'analyse des accidents routiers
+- Nettoyage et transformation des données.
+- Conception du modèle sémantique.
+- Création d'un tableau de bord interactif pour la visualisation et l'analyse des accidents routiers.
+  lien: 
 
 ### 🐍 Python — Analyse des données des véhicules électriques
-- Importation, nettoyage et préparation des données
-- Analyse exploratoire des données
-- Restitution des résultats via visualisations et indicateurs clés (pandas, matplotlib)
+- Importation, nettoyage et préparation des données.
+- Analyse exploratoire des données.
+- Restitution des résultats via visualisations et indicateurs clés (pandas, matplotlib).
 
 ### 📈 Langage R — Analyse des données de ventes
 - Importation et préparation des données (gestion des valeurs manquantes)
