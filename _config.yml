@@ -1,5 +1,15 @@
+remote_theme: "mmistakes/minimal-mistakes"
 title: "KARAMOKO MANKANÉ"
 description: "Portfolio Mankané KARAMOKO | BI & Data Analyst"
 locale: "fr-FR"
 
 remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "KARAMOKO MANKANÉ"
+  avatar: "/img/PHOTO ID2.jpeg"
+  bio: "Ingénieur Reporting | BI & Data Analyst"
+  location: "Abidjan, Côte d'Ivoire"
