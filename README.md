@@ -1,5 +1,3 @@
-# Bonjour, je suis Mankané KARAMOKO 👋
-
 **Business Analyst | Ingénieure Reporting**  
 📍 Abidjan, Côte d'Ivoire → France | **Éligible au Passeport Talent**  
 📧 mankanekaramoko@gmail.com | 📞 +225 07 08 98 70 15  
@@ -89,17 +87,12 @@ Mankané KARAMOKO
 - Nettoyage et transformation des données.
 - Conception du modèle sémantique.
 - Création d'un tableau de bord interactif pour la visualisation et l'analyse des accidents routiers.
-  lien: https://github.com/MKny11/POWER-BI-PROJECT.git
+🔗 [Voir le projet sur GitHub](https://github.com/MKny11/POWER-BI-PROJECT)
 
 ### 🐍 Python — Analyse des données des véhicules électriques
 - Importation, nettoyage et préparation des données.
 - Analyse exploratoire des données.
 - Restitution des résultats via visualisations et indicateurs clés (pandas, matplotlib).
-
-### 📈 Langage R — Analyse des données de ventes
-- Importation et préparation des données (gestion des valeurs manquantes)
-- Analyse statistique des données de ventes
-- Présentation des résultats sous forme de visualisations claires et exploitables
 
 ---
 
